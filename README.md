@@ -63,6 +63,6 @@ the session disconnects.
 - `LLM_Checkers_Simple_Presentation_v2.pptx` - project presentation
 
 ## Course
-AI and Project Work — University of Bologna (Erasmus)  
+AI and Project Work - University of Bologna (Erasmus)  
 TU Dortmund, M.Sc. Data Science
 
