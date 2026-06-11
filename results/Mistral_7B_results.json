@@ -1,0 +1,182 @@
+[
+  {
+    "model_name": "Mistral 7B",
+    "game_number": 1,
+    "winner": "RED",
+    "total_moves": 44,
+    "illegal_moves": 1,
+    "captures_made": 11,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Mistral 7B",
+    "game_number": 2,
+    "winner": "RED",
+    "total_moves": 59,
+    "illegal_moves": 2,
+    "captures_made": 12,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Mistral 7B",
+    "game_number": 3,
+    "winner": "BLACK",
+    "total_moves": 46,
+    "illegal_moves": 2,
+    "captures_made": 8,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Mistral 7B",
+    "game_number": 4,
+    "winner": "RED",
+    "total_moves": 51,
+    "illegal_moves": 1,
+    "captures_made": 12,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Mistral 7B",
+    "game_number": 5,
+    "winner": "RED",
+    "total_moves": 85,
+    "illegal_moves": 4,
+    "captures_made": 12,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Mistral 7B",
+    "game_number": 6,
+    "winner": "RED",
+    "total_moves": 57,
+    "illegal_moves": 4,
+    "captures_made": 12,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Mistral 7B",
+    "game_number": 7,
+    "winner": "BLACK",
+    "total_moves": 66,
+    "illegal_moves": 5,
+    "captures_made": 8,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Mistral 7B",
+    "game_number": 8,
+    "winner": "BLACK",
+    "total_moves": 50,
+    "illegal_moves": 2,
+    "captures_made": 8,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Mistral 7B",
+    "game_number": 9,
+    "winner": "BLACK",
+    "total_moves": 92,
+    "illegal_moves": 3,
+    "captures_made": 9,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Mistral 7B",
+    "game_number": 10,
+    "winner": "DRAW",
+    "total_moves": 100,
+    "illegal_moves": 4,
+    "captures_made": 7,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Mistral 7B",
+    "game_number": 11,
+    "winner": "DRAW",
+    "total_moves": 100,
+    "illegal_moves": 3,
+    "captures_made": 10,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Mistral 7B",
+    "game_number": 12,
+    "winner": "RED",
+    "total_moves": 41,
+    "illegal_moves": 0,
+    "captures_made": 11,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Mistral 7B",
+    "game_number": 13,
+    "winner": "DRAW",
+    "total_moves": 100,
+    "illegal_moves": 2,
+    "captures_made": 11,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Mistral 7B",
+    "game_number": 14,
+    "winner": "BLACK",
+    "total_moves": 70,
+    "illegal_moves": 0,
+    "captures_made": 7,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Mistral 7B",
+    "game_number": 15,
+    "winner": "BLACK",
+    "total_moves": 56,
+    "illegal_moves": 1,
+    "captures_made": 8,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Mistral 7B",
+    "game_number": 16,
+    "winner": "RED",
+    "total_moves": 45,
+    "illegal_moves": 2,
+    "captures_made": 12,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Mistral 7B",
+    "game_number": 17,
+    "winner": "BLACK",
+    "total_moves": 62,
+    "illegal_moves": 2,
+    "captures_made": 7,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Mistral 7B",
+    "game_number": 18,
+    "winner": "BLACK",
+    "total_moves": 76,
+    "illegal_moves": 2,
+    "captures_made": 6,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Mistral 7B",
+    "game_number": 19,
+    "winner": "RED",
+    "total_moves": 87,
+    "illegal_moves": 3,
+    "captures_made": 12,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Mistral 7B",
+    "game_number": 20,
+    "winner": "BLACK",
+    "total_moves": 80,
+    "illegal_moves": 0,
+    "captures_made": 9,
+    "missed_captures": 0
+  }
+]

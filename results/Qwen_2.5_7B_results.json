@@ -1,0 +1,182 @@
+[
+  {
+    "model_name": "Qwen 2.5 7B",
+    "game_number": 1,
+    "winner": "BLACK",
+    "total_moves": 45,
+    "illegal_moves": 1,
+    "captures_made": 8,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Qwen 2.5 7B",
+    "game_number": 2,
+    "winner": "DRAW",
+    "total_moves": 100,
+    "illegal_moves": 0,
+    "captures_made": 9,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Qwen 2.5 7B",
+    "game_number": 3,
+    "winner": "BLACK",
+    "total_moves": 70,
+    "illegal_moves": 0,
+    "captures_made": 6,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Qwen 2.5 7B",
+    "game_number": 4,
+    "winner": "BLACK",
+    "total_moves": 50,
+    "illegal_moves": 0,
+    "captures_made": 8,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Qwen 2.5 7B",
+    "game_number": 5,
+    "winner": "BLACK",
+    "total_moves": 80,
+    "illegal_moves": 0,
+    "captures_made": 9,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Qwen 2.5 7B",
+    "game_number": 6,
+    "winner": "BLACK",
+    "total_moves": 38,
+    "illegal_moves": 0,
+    "captures_made": 4,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Qwen 2.5 7B",
+    "game_number": 7,
+    "winner": "RED",
+    "total_moves": 41,
+    "illegal_moves": 0,
+    "captures_made": 12,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Qwen 2.5 7B",
+    "game_number": 8,
+    "winner": "DRAW",
+    "total_moves": 100,
+    "illegal_moves": 0,
+    "captures_made": 10,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Qwen 2.5 7B",
+    "game_number": 9,
+    "winner": "DRAW",
+    "total_moves": 100,
+    "illegal_moves": 0,
+    "captures_made": 10,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Qwen 2.5 7B",
+    "game_number": 10,
+    "winner": "DRAW",
+    "total_moves": 100,
+    "illegal_moves": 1,
+    "captures_made": 10,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Qwen 2.5 7B",
+    "game_number": 11,
+    "winner": "RED",
+    "total_moves": 47,
+    "illegal_moves": 1,
+    "captures_made": 11,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Qwen 2.5 7B",
+    "game_number": 12,
+    "winner": "BLACK",
+    "total_moves": 56,
+    "illegal_moves": 0,
+    "captures_made": 7,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Qwen 2.5 7B",
+    "game_number": 13,
+    "winner": "BLACK",
+    "total_moves": 50,
+    "illegal_moves": 1,
+    "captures_made": 6,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Qwen 2.5 7B",
+    "game_number": 14,
+    "winner": "DRAW",
+    "total_moves": 100,
+    "illegal_moves": 0,
+    "captures_made": 11,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Qwen 2.5 7B",
+    "game_number": 15,
+    "winner": "BLACK",
+    "total_moves": 52,
+    "illegal_moves": 0,
+    "captures_made": 8,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Qwen 2.5 7B",
+    "game_number": 16,
+    "winner": "DRAW",
+    "total_moves": 100,
+    "illegal_moves": 0,
+    "captures_made": 10,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Qwen 2.5 7B",
+    "game_number": 17,
+    "winner": "BLACK",
+    "total_moves": 54,
+    "illegal_moves": 0,
+    "captures_made": 9,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Qwen 2.5 7B",
+    "game_number": 18,
+    "winner": "BLACK",
+    "total_moves": 82,
+    "illegal_moves": 0,
+    "captures_made": 9,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Qwen 2.5 7B",
+    "game_number": 19,
+    "winner": "RED",
+    "total_moves": 49,
+    "illegal_moves": 0,
+    "captures_made": 12,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "Qwen 2.5 7B",
+    "game_number": 20,
+    "winner": "RED",
+    "total_moves": 49,
+    "illegal_moves": 0,
+    "captures_made": 12,
+    "missed_captures": 0
+  }
+]

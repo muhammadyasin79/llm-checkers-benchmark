@@ -1,0 +1,182 @@
+[
+  {
+    "model_name": "LLaMA 3.2 3B",
+    "game_number": 1,
+    "winner": "RED",
+    "total_moves": 49,
+    "illegal_moves": 0,
+    "captures_made": 12,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "LLaMA 3.2 3B",
+    "game_number": 2,
+    "winner": "RED",
+    "total_moves": 57,
+    "illegal_moves": 1,
+    "captures_made": 12,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "LLaMA 3.2 3B",
+    "game_number": 3,
+    "winner": "BLACK",
+    "total_moves": 98,
+    "illegal_moves": 2,
+    "captures_made": 10,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "LLaMA 3.2 3B",
+    "game_number": 4,
+    "winner": "DRAW",
+    "total_moves": 100,
+    "illegal_moves": 0,
+    "captures_made": 10,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "LLaMA 3.2 3B",
+    "game_number": 5,
+    "winner": "RED",
+    "total_moves": 91,
+    "illegal_moves": 4,
+    "captures_made": 12,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "LLaMA 3.2 3B",
+    "game_number": 6,
+    "winner": "BLACK",
+    "total_moves": 54,
+    "illegal_moves": 0,
+    "captures_made": 6,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "LLaMA 3.2 3B",
+    "game_number": 7,
+    "winner": "DRAW",
+    "total_moves": 100,
+    "illegal_moves": 5,
+    "captures_made": 11,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "LLaMA 3.2 3B",
+    "game_number": 8,
+    "winner": "BLACK",
+    "total_moves": 92,
+    "illegal_moves": 1,
+    "captures_made": 7,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "LLaMA 3.2 3B",
+    "game_number": 9,
+    "winner": "BLACK",
+    "total_moves": 68,
+    "illegal_moves": 1,
+    "captures_made": 9,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "LLaMA 3.2 3B",
+    "game_number": 10,
+    "winner": "DRAW",
+    "total_moves": 100,
+    "illegal_moves": 1,
+    "captures_made": 10,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "LLaMA 3.2 3B",
+    "game_number": 11,
+    "winner": "DRAW",
+    "total_moves": 100,
+    "illegal_moves": 1,
+    "captures_made": 10,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "LLaMA 3.2 3B",
+    "game_number": 12,
+    "winner": "BLACK",
+    "total_moves": 48,
+    "illegal_moves": 0,
+    "captures_made": 4,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "LLaMA 3.2 3B",
+    "game_number": 13,
+    "winner": "DRAW",
+    "total_moves": 100,
+    "illegal_moves": 1,
+    "captures_made": 11,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "LLaMA 3.2 3B",
+    "game_number": 14,
+    "winner": "DRAW",
+    "total_moves": 100,
+    "illegal_moves": 0,
+    "captures_made": 11,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "LLaMA 3.2 3B",
+    "game_number": 15,
+    "winner": "DRAW",
+    "total_moves": 100,
+    "illegal_moves": 0,
+    "captures_made": 11,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "LLaMA 3.2 3B",
+    "game_number": 16,
+    "winner": "RED",
+    "total_moves": 59,
+    "illegal_moves": 3,
+    "captures_made": 12,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "LLaMA 3.2 3B",
+    "game_number": 17,
+    "winner": "RED",
+    "total_moves": 45,
+    "illegal_moves": 1,
+    "captures_made": 11,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "LLaMA 3.2 3B",
+    "game_number": 18,
+    "winner": "RED",
+    "total_moves": 47,
+    "illegal_moves": 0,
+    "captures_made": 12,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "LLaMA 3.2 3B",
+    "game_number": 19,
+    "winner": "BLACK",
+    "total_moves": 88,
+    "illegal_moves": 0,
+    "captures_made": 9,
+    "missed_captures": 0
+  },
+  {
+    "model_name": "LLaMA 3.2 3B",
+    "game_number": 20,
+    "winner": "DRAW",
+    "total_moves": 100,
+    "illegal_moves": 2,
+    "captures_made": 11,
+    "missed_captures": 0
+  }
+]
