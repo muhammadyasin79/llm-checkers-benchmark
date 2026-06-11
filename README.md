@@ -22,7 +22,7 @@ The notebook runs on Google Colab with a free GPU via Ollama
 for fully local model inference.
 
 ### Step 1 — Open in Colab
-Upload Checkers.ipynb` to Google Colab and enable 
+Upload `Checkers.ipynb` to Google Colab and enable 
 GPU under Runtime → Change runtime type → T4 GPU.
 
 ### Step 2 — Install Ollama and Pull Models
@@ -55,7 +55,7 @@ the session disconnects.
 
 
 ## Repository Structure
-- `checkers.ipynb` — full benchmark notebook
+- `Checkers.ipynb` — full benchmark notebook
 - `checkers.py` — full benchmark python file
 - `checkers_benchmark.pdf` — static view of notebook with outputs
 - `results/` — game results in JSON format (20 games per model)
